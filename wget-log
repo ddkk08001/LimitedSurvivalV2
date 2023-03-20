@@ -1,0 +1,11 @@
+--2023-03-20 22:09:55--  https://raw.githubusercontent.com/monun/minecraft-server-launcher/master/run
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 2606:50c0:8002::154, 2606:50c0:8001::154, 2606:50c0:8000::154, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|2606:50c0:8002::154|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2235 (2,2K) [text/plain]
+Saving to: ‘STDOUT’
+
+-                                            0%[                                                                                         ]       0  --.-KB/s               -                                          100%[========================================================================================>]   2,18K  --.-KB/s    in 0s      
+
+2023-03-20 22:09:55 (18,9 MB/s) - written to stdout [2235/2235]
+
