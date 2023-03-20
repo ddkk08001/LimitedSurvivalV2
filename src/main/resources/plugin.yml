@@ -1,0 +1,4 @@
+name: LimitedSurvivalV2
+version: '${version}'
+main: org.exampled.limitedsurvivalv2.LimitedSurvivalV2
+api-version: 1.19
